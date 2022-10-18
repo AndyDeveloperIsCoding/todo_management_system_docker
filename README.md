@@ -1,6 +1,6 @@
 Dear reader
 
-To launch the fullstack application "Todo Management System" from Docker, please create an empty project folder and download file into this folder docker-compose.yml. <br>
+To launch the fullstack application "Todo Management System" from Docker, please create an empty project folder and download file docker-compose.yml into this folder. <br>
 <br>
 In this folder run the next command using Command Prompt or any Terminal: docker compose up -d <br>
 <br>
